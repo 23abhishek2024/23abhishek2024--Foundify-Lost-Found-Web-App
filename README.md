@@ -40,13 +40,3 @@ Foundify/
 ├── package.json # Project metadata
 └── README.md # This file
 
-
----
-
-## ⚙️ Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/YOUR_USERNAME/lostandfound.git
-cd lostandfound_2
